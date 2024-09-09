@@ -16,7 +16,7 @@ export default function () {
             </div>
         </div>
             <hr class="featurette-divider"></hr>
-        <div class="row featurette container py-5 my-5 px-5 bg-body-tertiary border rounded-3">
+        <div class="row featurette container py-2 bg-body-tertiary border rounded-3">
             <div class="col-md-7 order-md-2 py-5 px-5">
                 <h2 class="featurette-heading fw-normal lh-1">Pod Systems</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
